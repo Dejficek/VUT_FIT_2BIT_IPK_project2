@@ -1,0 +1,16 @@
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\IPK_proj2.exe
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\IPK_proj2.deps.json
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\IPK_proj2.runtimeconfig.json
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\IPK_proj2.runtimeconfig.dev.json
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\IPK_proj2.dll
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\IPK_proj2.pdb
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.csprojAssemblyReference.cache
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.AssemblyInfoInputs.cache
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.AssemblyInfo.cs
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.dll
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.pdb
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.genruntimeconfig.cache
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\PacketDotNet.dll
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\bin\Debug\netcoreapp3.1\SharpPcap.dll
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.csproj.CoreCompileInputs.cache
+D:\BIT\2BIT\IPK\proj2\IPK_proj2\IPK_proj2\obj\Debug\netcoreapp3.1\IPK_proj2.csproj.CopyComplete

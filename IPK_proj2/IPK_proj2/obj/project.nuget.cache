@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IA/bZQY4OC+VZ1D3PhmWHJrmjbfaRJiHhlDai+nKJsDhBAiIfOZo/1IUn6qaxZP47m96lCd+1/2+oQsoK/2ykA==",
+  "success": true,
+  "projectFilePath": "D:\\BIT\\2BIT\\IPK\\proj2\\IPK_proj2\\IPK_proj2\\IPK_proj2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dejfi\\.nuget\\packages\\packetdotnet\\1.0.3\\packetdotnet.1.0.3.nupkg.sha512",
+    "C:\\Users\\dejfi\\.nuget\\packages\\sharppcap\\5.1.0\\sharppcap.5.1.0.nupkg.sha512",
+    "C:\\Users\\dejfi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

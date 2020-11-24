@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IPK_proj2": {
+      "commandName": "Project",
+      "commandLineArgs": "-i Wi-Fi -n 2 -p 8999"
+    }
+  }
+}
